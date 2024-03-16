@@ -9,5 +9,10 @@
 
 📫 How to reach me: business@alexexe.es
 
-Languages? -> 🇺🇸 🇫🇷 🇩🇪 🇳🇴
-Oh, you meant programming languages, sorry...
+## Languages? → 
+- English / 🇺🇸
+- French / 🇫🇷
+- German / 🇩🇪
+- Norwegian / 🇳🇴 
+
+>Oh, you meant programming languages, sorry...
