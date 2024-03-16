@@ -8,3 +8,6 @@
 [![Store](https://img.shields.io/discord/1008450130015436881?logo=discord&logoColor=white&color=darkgreen&label=Store&style=for-the-badge)](https://discord.com/invite/VhFta3cWND)
 
 📫 How to reach me: business@alexexe.es
+
+Languages? -> 🇺🇸 🇫🇷 🇩🇪 🇳🇴
+Oh, you meant programming languages, sorry...
