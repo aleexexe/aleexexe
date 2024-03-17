@@ -10,6 +10,7 @@
 📫 How to reach me: business@alexexe.es
 
 ## Languages? → 
+- Spanish / 🇪🇸
 - English / 🇺🇸
 - French / 🇫🇷
 - German / 🇩🇪
